@@ -4,7 +4,7 @@ import petrik from '../petrik.jpg'
 export default class Experience extends Component {
     render() {
         return <div>
-            <img src={petrik} alt="petrik" />
+            <img src={petrik} alt="petrik" id="petrik"/>
             <h4>Pro-bono bulik</h4>
             <ul>
                 <li>Csibeavató, 2021.08.31</li>
