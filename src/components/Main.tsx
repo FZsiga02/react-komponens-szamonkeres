@@ -1,5 +1,5 @@
 import { Component } from "react";
-import petrik from './petrik.jpg'
+import dj from './dj.jpg'
 
 export default class Main extends Component {
 
@@ -8,7 +8,7 @@ export default class Main extends Component {
             <p>Üdvözöllek DJ Petrik weboldalán!</p>
             <br />
             <p>Válassz a fenti lehetőségek közül!</p>
-            <img src={petrik} alt="petrik" />
+            <img src={dj} alt="dj" />
         </div>
     }
 
