@@ -1,5 +1,5 @@
 import { Component } from "react";
-import petrik from './petrik.jpg'
+import petrik from '../petrik.jpg'
 
 export default class Experience extends Component {
     render() {
